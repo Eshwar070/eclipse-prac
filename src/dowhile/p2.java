@@ -6,6 +6,8 @@ public class p2 {
 		int i=0;
 		do {
 			System.out.println("num"+i);
+			System.out.println(+i);
+			
 			i++;
 		}while(i<=10);
 			
